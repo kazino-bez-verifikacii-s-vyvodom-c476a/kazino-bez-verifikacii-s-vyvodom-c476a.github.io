@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-verifikacii-s-vyvodom-c476a.github.io
+Sitemap: https://kazino-bez-verifikacii-s-vyvodom-c476a.github.io/sitemap.xml
